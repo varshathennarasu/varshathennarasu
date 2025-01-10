@@ -1,7 +1,7 @@
 
 ## 👩🏽‍💻 Varsha Thennarasu 
 
-🎓 **Data Science Student @ UC Davis** | 💡 **Aspiring Data Engineer** | 🚀 **Tech Enthusiast**  
+🎓 **Data Science Student @ UC Davis** | 💡 **Aspiring Data Scientist/Data Engineer**
 
 ---
 
