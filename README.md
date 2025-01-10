@@ -12,6 +12,8 @@ Hi! I'm Varsha, a go-getter passionate about turning data into insights and buil
 
 ## 🛠️ Skills  
 💻 **Languages**: Python, R, Java, SQL
+
 📊 **Tools**: Pandas, Tableau, Scikit-Learn, OpenCV
+
 🧠 **Focus Areas**: Machine Learning, Data Visualization  
 
